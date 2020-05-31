@@ -7,9 +7,11 @@
 
 ## 项目预览地址 ：http://149.129.69.93:5000/ (采用docker部署)
 
-拉取容器    docker pull registry.cn-shenzhen.aliyuncs.com/koala9527/cnb_flask:f_test
+部署简单教程，未经测试仅供参考 
 
-运行容器    #docker run -itd -p 5000:5000 --name koala9527/cnb_flask
+拉取镜像    #docker pull registry.cn-shenzhen.aliyuncs.com/koala9527/cnb_flask:f_test
+
+运行容器    #docker run --name cnb_flask -d -p 5000:5000 registry.cn-shenzhen.aliyuncs.com/koala9527/cnb_flask:f_test
 
 进入容器    #docker exec -it *********** /bin/bash 
 
