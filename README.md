@@ -23,7 +23,7 @@
 重启容器        #docker restart ***********
   
 
-![Screenshot_2020-05-31-12-04-57-Mobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbi42gzlcj20u03qstva.jpg)
+![](http://koala9527.s3-cn-south-1.qiniucs.com/FrrSrzejUlO6aXJAlrl3d95gu0ME)
 
 ![Screenshot_2020-05-31-12-04-57-031_com.UCMobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbh9m7pc9j21ha0hc754.jpg)
 
