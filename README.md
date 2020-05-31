@@ -25,6 +25,6 @@
 
 ![Screenshot_2020-05-31-12-04-57-031_com.UCMobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbi42gzlcj20u03qstva.jpg)
 
-![Screenshot_2020-05-31-12-04-57-031_com.UCMobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbi42gzlcj20u03qstva.jpg)
+![Screenshot_2020-05-31-12-04-57-031_com.UCMobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbh9m7pc9j21ha0hc754.jpg)
 
 ![FireShot Capture 001 - koala· 专注于吹牛逼 - 127.0.0.1.png](http://ww1.sinaimg.cn/large/b43c09abgy1geisntj71ej21hc10aafu.jpg)
