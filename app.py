@@ -10,9 +10,9 @@ def home():
     主页
     '''
     # 渲染首页HTML模板文件
-    return render_template('home.html')
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
     app.debug = True
-    app.run()
+    app.run(host="0.0.0.0")

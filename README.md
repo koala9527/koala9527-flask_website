@@ -5,28 +5,21 @@
 ## 移动端页面兼容
 
 
-## 项目预览地址 ：http://149.129.69.93:5000/ (采用docker部署)
+## 项目启动
 
-部署简单教程，未经测试仅供参考 
+部署简单教程
 
-拉取镜像    #docker pull registry.cn-shenzhen.aliyuncs.com/koala9527/cnb_flask:f_test
-
-运行容器    #docker run --name cnb_flask -d -p 5000:5000 registry.cn-shenzhen.aliyuncs.com/koala9527/cnb_flask:f_test
-
-进入容器    #docker exec -it *********** /bin/bash 
-
-装一个vim      #apt-get update
-               #apt-get install vim
-
-修改容器内容    ........
-
-退出容器        #exit;
-
-重启容器        #docker restart ***********
+拉取镜像（已公开在阿里云镜像中心）
+```
+docker pull registry.cn-shenzhen.aliyuncs.com/koala9527/koala9527-flask-website:latest
+```
+运行容器
+```
+docker run --name flask-website -id -p 5000:5000 registry.cn-shenzhen.aliyuncs.com/koala9527/koala9527-flask-website:latest
+```
+## 访问：127.0.0.1:5000 效果：
   
 
-![](http://koala9527.s3-cn-south-1.qiniucs.com/FrrSrzejUlO6aXJAlrl3d95gu0ME)
+![](微信截图_20230222152402.png)
 
-![Screenshot_2020-05-31-12-04-57-031_com.UCMobile.png](http://ww1.sinaimg.cn/large/b43c09abgy1gfbh9m7pc9j21ha0hc754.jpg)
 
-![FireShot Capture 001 - koala· 专注于吹牛逼 - 127.0.0.1.png](http://ww1.sinaimg.cn/large/b43c09abgy1geisntj71ej21hc10aafu.jpg)
