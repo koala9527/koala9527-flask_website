@@ -1,0 +1,9 @@
+ version: "2.0"
+ 
+ services:
+   koala9527-flask-website:
+     image: registry.cn-shenzhen.aliyuncs.com/koala9527/koala9527-flask-website:latest
+     container_name: koala9527-flask-website
+     restart: always
+     ports:
+      - "5000:5000"
